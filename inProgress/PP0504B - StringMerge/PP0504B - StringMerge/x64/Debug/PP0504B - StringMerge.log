@@ -1,0 +1,4 @@
+﻿  PP0504B - StringMerge.cpp
+F:\__WORKS\Programing\C++\0_SPOJ\inProgress\PP0504B - StringMerge\PP0504B - StringMerge\PP0504B - StringMerge.cpp(13,33): warning C4101: "S": lokalna zmienna, do której nie istnieje odwołanie
+F:\__WORKS\Programing\C++\0_SPOJ\inProgress\PP0504B - StringMerge\PP0504B - StringMerge\PP0504B - StringMerge.cpp(12,9): warning C4101: "n": lokalna zmienna, do której nie istnieje odwołanie
+  PP0504B - StringMerge.vcxproj -> F:\__WORKS\Programing\C++\0_SPOJ\inProgress\PP0504B - StringMerge\x64\Debug\PP0504B - StringMerge.exe
